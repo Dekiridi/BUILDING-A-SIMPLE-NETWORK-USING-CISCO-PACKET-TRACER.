@@ -39,7 +39,7 @@ This project demonstrates the design, configuration, and security testing of a b
 ---
 
 ## let's connect
-🔗 [LinkedIn](https://linkedin.com/in/kiridi-david)
+🔗 [LinkedIn](https://www.linkedin.com/posts/kiridi-david_building-a-simple-network-using-cisco-packet-activity-7336727541371531265-ch1V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
 📧 [Email](mailto:kirididavid@gmail.com)
 
 
